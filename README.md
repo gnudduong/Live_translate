@@ -1,8 +1,9 @@
 # Live_translate
+RQTRans is the main script
 To add caption in many langagues for your everyday tasks.
 
 
-Dependencies: python, speech_recognition, googletrans (to install: 'pip install denpendency_name' in cmd)
+Dependencies: python, speech_recognition, googletrans, pyaudio (to install: 'pip install denpendency_name' in cmd)
 
 To enable system sound:
   -Right click on speaker icon (bottom right)
