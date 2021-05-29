@@ -20,4 +20,4 @@ Stereo mix(system sound) should appear as 1 of the source for speech recognition
 
 
 link to the standalone exe (dont need python to run)
-https://www.mediafire.com/file/h2xcra35diszuu0/RQTrans.exe/file
+https://www.mediafire.com/folder/jgv63bny183te/InOut
