@@ -1,5 +1,5 @@
 # Live_translate
-RQTRans is the main script
+## RQTRans is the main script
 
 
 To add caption in many langagues for your everyday tasks.
