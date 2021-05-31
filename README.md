@@ -1,14 +1,13 @@
 # Live_translate
-## RQTRans is the main script
-
+### RQTRans is the main script
 
 To add caption in many langagues for your everyday tasks.
 
 
-Dependencies: python, speech_recognition, googletrans, pyaudio (to install: 'pip install denpendency_name' in cmd)
+### Dependencies: python, speech_recognition, googletrans, pyaudio (to install: 'pip install denpendency_name' in cmd)
 
 
-To enable system sound:
+### To enable system sound:
   - Right click on speaker icon (bottom right)
   - Select Sounds
   - Select Recording tab
@@ -19,11 +18,11 @@ Stereo mix(system sound) should appear as 1 of the source for speech recognition
 
 
 
-link to the standalone exe (dont need python to run)
+### link to the standalone exe (dont need python to run)
 https://www.mediafire.com/folder/jgv63bny183te/InOut
 
 
-Project description:
+## Project description:
 
 - "What is it called? That thing you eat after the main dish?"
 - You mean dessert?"
